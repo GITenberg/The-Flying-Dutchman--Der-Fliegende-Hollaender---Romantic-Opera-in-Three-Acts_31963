@@ -1,0 +1,42 @@
+_repo: The-Flying-Dutchman--Der-Fliegende-Hollaender---Romantic-Opera-in-Three-Acts_31963
+_version: 0.1.0
+alternative_title: 'The Flying Dutchman (Der Fliegende Holländer): Romantic Opera
+  in Three Acts'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wagner, Richard
+    aliases:
+    - Drach, Wilhelm
+    - Wagner, Wilhelm Richard
+    - Wagner, R. (Richard)
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '1325'
+    url: http://www.gutenberg.org/2009/agents/1325
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Richard_Wagner
+    - http://en.wikipedia.org/wiki/Richard_Wagner
+description: ''
+gutenberg_bookshelf:
+- DE Drama
+- Language Education
+- Opera
+- DE Sachbuch
+gutenberg_issued: '2010-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31963'
+language:
+- de
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Operas -- Librettos'
+- !lcc 'ML'
+title: 'The Flying Dutchman (Der Fliegende Hollaender): Romantic Opera in Three Acts'
+url: http://www.gutenberg.org/ebooks/31963
