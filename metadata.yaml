@@ -20,6 +20,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Richard_Wagner
     - http://en.wikipedia.org/wiki/Richard_Wagner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31963#The-Flying-Dutchman--Der-Fliegende-Hollaender---Romantic-Opera-in-Three-Acts
 gutenberg_bookshelf:
 - DE Drama
 - Language Education
